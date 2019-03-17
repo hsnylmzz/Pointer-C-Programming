@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>   // Bu kütüphane mutlak degeri hesaplayan abs fonksiyonu içindir.
 void update(int *a,int *b);
 int main() {
   int sayi1,sayi2;
